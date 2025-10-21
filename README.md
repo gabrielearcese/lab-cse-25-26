@@ -11,11 +11,11 @@ Last update: 21/10/2025
 ## READMEs
 
 Code and instructions for every laboratory will be released progressively. With each release, a new README file will be published under the "readmes" folder.
-- [101 Spark basics](readmes/_101)
+- [101 Spark basics](readmes/101)
 
 Additional readmes:
 - [Exam Project](readmes/project.md) (instructions for the project, that is mandatory for the exam)
-- [Spark Setup](readmes/spark-setup.md) (instructions to install and configure Apache Spark, and to run notebooks and jobs)
+<!-- - [Spark Setup](readmes/spark-setup.md) (instructions to install and configure Apache Spark, and to run notebooks and jobs) -->
 
 ## IntelliJ IDEA Ultimate license
 
