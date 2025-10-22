@@ -11,7 +11,7 @@ Last update: 21/10/2025
 ## READMEs
 
 Code and instructions for every laboratory will be released progressively. With each release, a new README file will be published under the "readmes" folder.
-- [101 Spark basics](readmes/101)
+- [101 Spark basics](readmes/101.md)
 
 Additional readmes:
 - [Exam Project](readmes/project.md) (instructions for the project, that is mandatory for the exam)
